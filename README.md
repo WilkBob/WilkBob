@@ -14,13 +14,13 @@ Hello! I'm Robert, a passionate full-stack web developer with a strong foundatio
 
 ### 💻 Featured Projects
 
-1. **Bobbit Forum**
-   - A full-fledged forum application built with React, Firebase, and Material-UI
-   - Features: User authentication, post creation, commenting, real-time interactions
+1. **Tree Visualizer**
+   - An informative page on tree structures, and tree traversal algorithms, with an animated illustration of traversals.
+   - A simple page built with Vanilla HTML and Javascript, with Tailwind and DaisyUI for styling.
 
-2. **Draw by Bob**
-   - A pixel art creation web app using CSS Grid and Vanilla JavaScript
-   - Features: Color selection, pixel painting, online saving and gallery viewing
+2. **Bobbit**
+   - A forum type site modeled after Reddit with the ability for users to make various message boards, and post on them.
+   - Built with React 19, MUI, Firebase, and various other libraries.
 
 *For more projects, please visit my [Portfolio](https://bob-the-dev.web.app/).*
 
@@ -41,7 +41,7 @@ When I'm not immersed in code, you can find me:
 I'm always excited to collaborate on innovative projects or discuss the latest in web development. Feel free to reach out:
 
 - Email: bobbydchess@gmail.com
-- LinkedIn: [Robert Wilkinson](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Robert Wilkinson](https://www.linkedin.com/in/bobwilkinsondev/)
 - Portfolio: [https://bob-the-dev.web.app/](https://bob-the-dev.web.app/)
 
 ---
