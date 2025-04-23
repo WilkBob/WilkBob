@@ -14,11 +14,16 @@ Hello! I'm Robert, a passionate full-stack web developer with a strong foundatio
 
 ### 💻 Featured Projects
 
-1. **Tree Visualizer**
+1. **[Sizable](https://web-size.web.app)**
+   - An image processing application and React component library for progressive image loading.
+   - Built with React, Tailwind, and Framer motion for expressive animated UI.
+   - User authentication with Firebase, and NodeJS backend with auto-scaling via Google Cloud Platform.
+
+2. **Tree Visualizer**
    - An informative page on tree structures, and tree traversal algorithms, with an animated illustration of traversals.
    - A simple page built with Vanilla HTML and Javascript, with Tailwind and DaisyUI for styling.
 
-2. **Bobbit**
+3. **Bobbit**
    - A forum type site modeled after Reddit with the ability for users to make various message boards, and post on them.
    - Built with React 19, MUI, Firebase, and various other libraries.
 
